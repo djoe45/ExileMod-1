@@ -1,8 +1,8 @@
 # ExileMod
-0.9.19 Base
+Release-Version 0.9.19 + Hotfixes "Banana"
 
 # Info
-This is not a official ExileMod Repo, it's just a Personal Repo where i made my fixes. If you want Support or need the latest Files, you need to visit exilemod.com
+This is not a official ExileMod Repo, it's just a Personal Repo where i include the fixes, the ExileMod Team provides on her Forums. If you want Support or need the latest Files, you need to ask the Developer of ExileMod.
 
 # Original Credits / License
 Exile Mod
