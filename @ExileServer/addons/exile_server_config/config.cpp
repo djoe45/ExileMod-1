@@ -949,7 +949,7 @@ class CfgSettings
 		restartAutoLock = 3;
 
 		// Server restart perion in hours / minute format
-		restartTimer[] = {3,0};
+		restartTimer[] = {6,0};
 
 		// Kicks playrers before restart to prevent gear loss
 		useAutoKick = 1;
@@ -962,7 +962,7 @@ class CfgSettings
 
 		// Times in minutes before restart warrning will be shown to all players
 		// 30 sec intervals min!
-		restartWarrningTime[] = {15,10,5,3}; 
+		restartWarrningTime[] = {30,15,10,5,3}; 
 	};
 
 
