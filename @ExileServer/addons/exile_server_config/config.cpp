@@ -618,7 +618,7 @@ class CfgSettings
 	{
 		spawnChance = 70;
 		spawnRadius = 100;
-		despawnRadius = 20;
+		despawnRadius = 100;
 		lifeTime = 300;
 		notifyPlayer = 1;
 	};
